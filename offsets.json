@@ -1,0 +1,15 @@
+{
+  "AActor.actorId": 24,
+  "AActor.rootComponent": 368,
+  "APlayerState.PlayerName": 984,
+  "UGameInstance.LocalPlayers": 56,
+  "ULocalPlayer.PlayerController": 48,
+  "APlayerCameraManager.CameraCache": 1088,
+  "APlayerController.CameraManager": 1120,
+  "FCameraCacheEntry.FMinimalViewInfo": 16,
+  "UWorld.OwningGameInstance": 448,
+  "UWorld.PersistentLevel": 48,
+  "ACrewService.Crews": 1192,
+  "AMapTable.MapPins": 1248,
+  "AMapTable.TrackedShips": 1264
+}
